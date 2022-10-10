@@ -30,4 +30,4 @@ Python 3, fairseq and PyTorch are required for the current codebase.
   	+ Test Unsupervised Parsing
     ```sh test.sh /path/to/checkpoint```
     
-    The default setting in MoA achieves a BLEU of approximately `28.4` on WMT14 EN-DE test set.
+    In default setting, the MoA achieves a BLEU of approximately `28.4` on WMT14 EN-DE test set.
