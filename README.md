@@ -30,5 +30,4 @@ Python 3, fairseq and PyTorch are required for the current codebase.
   	+ Test Unsupervised Parsing
     ```sh test.sh /path/to/checkpoint```
     
-    The default setting in `main.py` achieves a perplexity of approximately `56.17` on PTB test set 
-    and unlabeled F1 of approximately `47.7` on WSJ test set.
+    The default setting in MoA achieves a BLEU of approximately `28.4` on WMT14 EN-DE test set.
