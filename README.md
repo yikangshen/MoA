@@ -18,7 +18,7 @@ Python 3, fairseq and PyTorch are required for the current codebase.
 
 ## Steps
 
-1. Install PyTorch and NLTK
+1. Install PyTorch and fairseq
 
 2. Generate WMT14 translation dataset with [Transformer Clinic](https://github.com/LiyuanLucasLiu/Transformer-Clinic).
 
